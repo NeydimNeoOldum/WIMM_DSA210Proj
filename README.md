@@ -1,8 +1,7 @@
 # WIMM (Where Is My Money): Purchase History Insights and Saving Tips
 
 ## **Project Motivation**
-
-
+I started playing offensive lineman and now being hungry is a state that i am in all the time. So, ı started to spent lots of money on foods unconsciously. In order to, solve my money problem ı decided to analyzes my bank account data to gain insights into my purchase history and spending patterns. The primary goal is to identify areas where I can save money and provide personalized tips for smarter financial decisions. Additionally, the program highlights significant money spendings unique to each month to improve awareness of spending habits.
 
 ---
 
